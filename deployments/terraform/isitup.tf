@@ -1,5 +1,5 @@
 module "isitup-deploy" {
-  source  = "fuchicorp/chart/helm"
+  source  = "tubaloughlin/chart/helm"
 
   deployment_name        = "isitup"
   deployment_environment = "${var.deployment_environment}"

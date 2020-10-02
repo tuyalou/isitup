@@ -1,9 +1,9 @@
 message: Configuration for all members
 data:
 
-- name: fuchicorp
-  domain: fuchicorp.com
-  message: FuchiCorp  
+- name: tubaloughlin
+  domain: tubaloughlin.com
+  message: tubaloughlin  
 
 
 - name: arginbest

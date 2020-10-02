@@ -11,7 +11,7 @@ variable "deployment_endpoint" {
 }
 
 variable "deployment_image" {
-  default = "fuchicorp.com/isitup"
+  default = "tubaloughlin.com/isitup"
 }
 
 variable "deployment_environment" {
@@ -19,5 +19,5 @@ variable "deployment_environment" {
 }
 
 variable "google_domain_name" {
-  default = "fuchicorp.com"
+  default = "tubaloughlin.com"
 }
