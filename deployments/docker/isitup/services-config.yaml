@@ -60,6 +60,11 @@ data:
   image: /static/images/elasticsearch.png
   message: Service is up running
   url: https://elasticsearch.{domain}
+  
+- name: The Room  
+  image: /static/images/johnny.png
+  message: I'm Tired, I'm Wasted, I love you Darling!
+  url: http://theroomsoundboard.com
 
 - name: Hello World Prod 
   image: /static/images/hello-world.png
