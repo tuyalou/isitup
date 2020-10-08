@@ -81,7 +81,3 @@ data:
   message: Service is up running
   url: https://qa.hello.{domain}
   
-- name: The Room  
-  image: /static/images/johnny.png
-  message: Service is up running
-  url: http://theroomsoundboard.com
