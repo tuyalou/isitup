@@ -61,11 +61,21 @@ data:
   message: Service is up running
   url: https://elasticsearch.{domain}
   
-- name: The Room  
+- name: The Room Soundboard
   image: /static/images/johnny.png
-  message: I'm Tired, I'm Wasted, I love you Darling!
+  message: I'm Tired, I'm Wasted, I love you Darling..
   url: http://theroomsoundboard.com
-
+  
+- name: The Room Script
+  image: /static/images/denny.png
+  message: I Just Like to Watch
+  url: https://theroomscriptblog.files.wordpress.com/2016/04/the-room-original-script-by-tommy-wiseau.pdf
+  
+- name: The Room Spoiler
+  image: /static/images/lisa.png
+  message: Cheers to Scotchka! 
+  url: https://www.youtube.com/watch?v=mvuwldnG7c0
+  
 - name: Hello World Prod 
   image: /static/images/hello-world.png
   message: Service is up running
