@@ -19,7 +19,7 @@ def isItUp(url):
 
 @app.route('/')
 def index():
-    # data =  requests.get('https://raw.githubusercontent.com/tubaloughlin/isitup/master/configurations/domains.yaml').text
+    # data =  requests.get('https://raw.githubusercontent.com/loughlintuba/isitup/master/configurations/domains.yaml').text
     with open('configurations/domains.yaml') as file:
         config = yaml.load(file)
         
