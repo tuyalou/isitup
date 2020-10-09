@@ -76,18 +76,18 @@ data:
   message: Cheers to Scotchka! 
   url: https://www.youtube.com/watch?v=mvuwldnG7c0
   
-- name: Hello World Prod 
-  image: /static/images/hello-world.png
+- name: Suspect 1
+  image: /static/images/suspect1.jpg
   message: Service is up running
   url: https://hello.{domain}
 
-- name: Hello World Dev 
-  image: /static/images/hello-world.png
+- name: Suspect 2
+  image: /static/images/suspect2.jpg
   message: Service is up running
   url: https://dev.hello.{domain}
 
-- name: Hello World Stage 
-  image: /static/images/hello-world.png
+- name: Suspect 3 
+  image: /static/images/suspect3.jpg
   message: Service is up running
   url: https://stage.hello.{domain}
 
