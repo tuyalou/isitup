@@ -24,7 +24,7 @@ a {
 }
 .column {
     float: left;
-    width: 100%;
+    width: 33.33%;
 }
 
 .content {
