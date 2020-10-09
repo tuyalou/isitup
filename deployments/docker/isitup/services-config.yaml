@@ -77,17 +77,17 @@ data:
   url: https://www.youtube.com/watch?v=mvuwldnG7c0
   
 - name: Suspect List 1
-  image: /static/images/suspect4.png
+  image: /static/images/suspect2.png
   message: Service is up running
   url: https://hello.{domain}
 
 - name: Suspect List 2
-  image: /static/images/suspect5.png
+  image: /static/images/suspect1.png
   message: Service is up running
   url: https://dev.hello.{domain}
 
 - name: Suspect List 3
-  image: /static/images/suspect6.png
+  image: /static/images/suspect5.png
   message: Service is up running
   url: https://stage.hello.{domain}
 
