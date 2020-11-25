@@ -11,7 +11,7 @@ variable "deployment_endpoint" {
 }
 
 variable "deployment_image" {
-  default = "tubaloughlin.com/isitup"
+  default = "tubaloughlin.com/isitup-stage:60d43fa"
 }
 
 variable "deployment_environment" {
